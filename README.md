@@ -1,0 +1,4 @@
+# TDD starter
+
+- jest
+- typescript
